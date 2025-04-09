@@ -54,4 +54,4 @@ A Smart Recruitment Platform with AI-powered Applicant Matching & Automated Hiri
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo-link.git
+git clone https://github.com/Anna-University-CSE/recruiter-interface.git
